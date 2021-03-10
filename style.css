@@ -1,0 +1,27 @@
+.traveldiv {
+    border: 2px ridge grey;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.traveldiv h5,
+.traveldiv p {
+    margin-left: 20px;
+}
+
+li {
+    margin-top: 20px;
+}
+
+li h3 {
+    border-bottom: 2px solid aliceblue;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.modal-content img {
+    display: inline;
+}
